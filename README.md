@@ -1,2 +1,3 @@
-# intr2002-bonus-mel
-1st repo experience
+# 1st repo experience
+
+1st attempt using Codespace and Pages.
